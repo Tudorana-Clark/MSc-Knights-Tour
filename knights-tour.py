@@ -1,5 +1,5 @@
 """
-Knight's Tour Problem
+Task 1: Knight's Tour Problem
 Author: Daniel Tudorana-Clark
 Subject: MSc Computer Science - Data Structure and Algorithms 2
 Date: November 2025
